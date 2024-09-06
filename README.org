@@ -1,0 +1,13 @@
+#+title: SSPP networks
+
+Julia modules for simulating SSPP networks
+
+* WaveSystem model
+
+Low-dimensional model of SSPP networks.
+
+=WS.lj= - The base module implementing the single-channel network. The
+channel implements an inhomogeneous wave-system with local resonances with
+general boundary conditions. The system response is evaluated at fixed
+frequency using the invariant imbedding technique adapted to the transfer
+matrix approach with sources.
