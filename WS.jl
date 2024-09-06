@@ -1,6 +1,7 @@
-# simulating excited 1d wave systems with distributed resonances
-# in frequency domain using the invariant imbedding technique
-# The modularized version
+# Single channel scalar 1d model with distributed resonances
+# with supplied sources in frequency domain using the invariant
+# imbedding technique
+
 
 module WS
 
